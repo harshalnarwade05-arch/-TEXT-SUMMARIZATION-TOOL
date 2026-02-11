@@ -58,5 +58,7 @@ In the main part of the program, a sample paragraph about Natural Language Proce
 Overall, this code demonstrates a practical implementation of extractive text summarization using TF-IDF scoring. It is efficient, easy to understand, and suitable for handling moderate-sized text documents. The approach avoids complex neural networks while still producing meaningful summaries, making it ideal for educational purposes and introductory NLP projects.
 
 ---
+*OUTPUT*:
+<img width="1283" height="596" alt="Image" src="https://github.com/user-attachments/assets/8eb4715e-b589-46b7-bdda-8d73db0e8307" />
 
  
